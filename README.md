@@ -12,7 +12,7 @@ Choose characters by entering their menu numbers. Enemy indices start at 0.
 
 ## Goal
 
-I added Assassin and Bard to practise managing status-effect lifecycles.
+I added Assassin and Bard to practise managing status-effect lifecycles and polymorphism.
 
 ## New characters
 
